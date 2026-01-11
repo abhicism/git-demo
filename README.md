@@ -1,2 +1,2 @@
 # git-demo
-demo repo for git tutorials
+demo repo for git tutorials <updated>
