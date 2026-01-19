@@ -1,0 +1,7 @@
+* text=auto          # normalize text formats
+*.sh eol=lf          # enforce LF for shell scripts
+*.bat eol=crlf       # enforce CRLF for Windows scripts
+*.jpg binary         # treat images as binary
+*.png binary
+*.pdf binary
+*.lock merge=ours    # avoid merge conflicts in lock files
